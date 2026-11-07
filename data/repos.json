@@ -1,6 +1,15 @@
 {
   "repos": [
     {
+      "name": "docmind",
+      "description": "Evidence-grounded document Q&A with configurable RAG and measured retrieval quality.",
+      "stars": 0,
+      "language": null,
+      "updated_at": "2026-11-07T09:57:57Z",
+      "html_url": "https://github.com/Dwijeshh/docmind",
+      "fork": false
+    },
+    {
       "name": "Dwijeshh",
       "description": null,
       "stars": 0,
