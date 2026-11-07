@@ -1,0 +1,49 @@
+{
+  "repos": [
+    {
+      "name": "Dwijeshh",
+      "description": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "updated_at": "2026-11-07T07:03:52Z",
+      "html_url": "https://github.com/Dwijeshh/Dwijeshh",
+      "fork": false
+    },
+    {
+      "name": "Dwijeshh.github.io",
+      "description": null,
+      "stars": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-05T16:12:39Z",
+      "html_url": "https://github.com/Dwijeshh/Dwijeshh.github.io",
+      "fork": false
+    },
+    {
+      "name": "ParkEase",
+      "description": "Intelligent parking management system for commercial buildings with smart slot allocation, indoor navigation, parking-state management, and computer vision.",
+      "stars": 0,
+      "language": "Dart",
+      "updated_at": "2026-11-05T13:16:15Z",
+      "html_url": "https://github.com/Dwijeshh/ParkEase",
+      "fork": false
+    },
+    {
+      "name": "pcap-crowd-crush-simulation",
+      "description": "Crowd-crush risk simulation comparing sequential CPU, OpenMP, MPI, CUDA, and hybrid execution",
+      "stars": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-05T12:17:54Z",
+      "html_url": "https://github.com/Dwijeshh/pcap-crowd-crush-simulation",
+      "fork": false
+    },
+    {
+      "name": "lab_asset_management2",
+      "description": "Role-based lab asset management for MAHE, with inventory tracking, borrowing approvals, exports, and audit logs.",
+      "stars": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-11-05T11:05:58Z",
+      "html_url": "https://github.com/Dwijeshh/lab_asset_management2",
+      "fork": false
+    }
+  ]
+}
